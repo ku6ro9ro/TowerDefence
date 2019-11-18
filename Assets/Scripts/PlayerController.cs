@@ -199,7 +199,6 @@ namespace AM1.Nav
             }
         }
 
-
 #if UNITY_EDITOR
         private void OnDrawGizmosSelected()
         {
